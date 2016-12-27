@@ -41,3 +41,5 @@ $latlong = Get_LatLng_From_Google_Maps($address);
 echo "Address: ". $address;
 echo "<br />Lat: ". $latlong['lat'];
 echo "<br />Long: ". $latlong['lng'];
+
+?>
